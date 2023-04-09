@@ -6,5 +6,5 @@
 
 -------------------
 ## 프로젝트 참가부문
-Lee Seung Bong  - 프로그래머
+Lee Seung Bong  - 프로그래머 (본인)
 Seo Jun Hui     - 디자인
